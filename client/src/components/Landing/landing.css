@@ -1,0 +1,20 @@
+.img1{
+    height: 10vh;
+}
+
+.font-weight-bold{
+    color: white;
+}
+.navbar{
+    background-color: rgb(5, 5, 87);
+}
+
+.raw{
+    background: transparent!important;
+    border: none!important;
+}
+
+.land-div{
+    min-height: 100vh !important;
+    background-color: rgb(5, 5, 87);
+}

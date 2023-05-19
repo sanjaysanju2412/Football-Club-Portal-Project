@@ -1,0 +1,8 @@
+.signbg{
+  background-color: rgb(5, 5, 87);
+  min-height: 100vh;
+}
+
+.bor-div{
+  border: solid 2px white;
+}

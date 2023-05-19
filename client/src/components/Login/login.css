@@ -1,0 +1,9 @@
+.logbg{
+    background-color: rgb(5, 5, 87);
+    min-height: 100vh;
+  }
+
+  .logmar{
+    margin-top: 12% !important;
+    border: solid 2px white;
+  }
